@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lager_2" data-name="Lager 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63.42 59.45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f7b05d;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #1b2021;
+        stroke-miterlimit: 10;
+        stroke-width: 1.54px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Lager_1-2" data-name="Lager 1">
+    <g>
+      <ellipse class="cls-2" cx="31.71" cy="29.72" rx="30.94" ry="28.95"/>
+      <ellipse class="cls-1" cx="18.53" cy="17.08" rx="3.66" ry="3.43"/>
+      <path class="cls-3" d="M.77,29.3s15.69-2.12,30.82-.32c13.3,1.58,28-1.02,30.82.32"/>
+      <path class="cls-3" d="M1.26,34.08s15.56-1.9,30.55-.29c13.19,1.42,27.76-.91,30.55.29"/>
+      <path class="cls-3" d="M2.84,38.9s14.7-1.88,28.87-.29c12.46,1.4,26.23-.9,28.87.29"/>
+      <path class="cls-3" d="M4.75,43.52s13.66-1.5,26.82-.23c11.58,1.11,24.37-.72,26.82.23"/>
+      <path class="cls-3" d="M7.73,48.23s12.19-1.05,23.93-.16c10.33.78,21.75-.5,23.93.16"/>
+      <path class="cls-3" d="M13.26,52.98s9.39-1.05,18.44-.16c7.96.78,16.76-.5,18.44.16"/>
+    </g>
+  </g>
+</svg>
