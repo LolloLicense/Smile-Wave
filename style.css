@@ -216,17 +216,19 @@ li {
   background-color: var(--color-white);
   display: grid;
   background: url(assets/images/background-1.png);
-  background-size: contain;
+  background-size: cover;
   background-attachment: fixed;
   min-height: 100vh;
 }
 
 .site-header {
   display: grid;
-  grid-template-columns: [full-start] minmax(var(--section-margin), 1fr) [inner-start] minmax(
+  grid-template-columns:
+    [full-start] minmax(var(--section-margin), 1fr) [inner-start] minmax(
       0,
       var(--section-width)
-    ) [inner-end] minmax(var(--section-margin), 1fr) [full-end];
+    )
+    [inner-end] minmax(var(--section-margin), 1fr) [full-end];
 }
 
 .hero,
@@ -240,10 +242,12 @@ li {
 .site-footer,
 .tabs {
   display: grid;
-  grid-template-columns: [full-start] minmax(var(--section-margin), 1fr) [inner-start] minmax(
+  grid-template-columns:
+    [full-start] minmax(var(--section-margin), 1fr) [inner-start] minmax(
       0,
       var(--section-width)
-    ) [inner-end] minmax(var(--section-margin), 1fr) [full-end];
+    )
+    [inner-end] minmax(var(--section-margin), 1fr) [full-end];
 }
 
 .hero__inner,
