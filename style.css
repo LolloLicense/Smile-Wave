@@ -217,6 +217,7 @@ li {
   display: grid;
   background: url(assets/images/background-1.png);
   background-size: cover;
+  background-repeat: no-repeat;
   background-attachment: fixed;
   min-height: 100vh;
 }
